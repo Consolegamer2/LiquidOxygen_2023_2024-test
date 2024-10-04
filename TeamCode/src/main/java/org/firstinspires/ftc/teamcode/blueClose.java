@@ -156,6 +156,8 @@ public class blueClose extends OpMode {
 
 //EKJFNHENHGFDCEKGUFKBGUEBVGKUFFUEHJF#GKJhiyp
 
+//print hi
+
 
             switch (step) {
                 case (0):
