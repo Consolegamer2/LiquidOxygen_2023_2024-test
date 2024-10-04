@@ -153,9 +153,14 @@ public class blueClose extends OpMode {
 
         */
 //Ashwin Was here if tghis works cool
+
+//EKJFNHENHGFDCEKGUFKBGUEBVGKUFFUEHJF#GKJhiyp
+
+
             switch (step) {
                 case (0):
                     driveOmni(0, 00, -0.5);
+                    
                     delayedStop(2400);
                     break;
             }
